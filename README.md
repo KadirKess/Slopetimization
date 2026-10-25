@@ -1,4 +1,4 @@
-# Sloptimization
+# Slopetimization
 
 *Exploring numerical descent methods.*
 
